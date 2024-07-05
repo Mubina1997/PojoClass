@@ -63,6 +63,7 @@ public class Bank {
 			//System.out.println(value);
 		}
 		*/
+		System.out.println("Git changes done");
 		
 		
 		
